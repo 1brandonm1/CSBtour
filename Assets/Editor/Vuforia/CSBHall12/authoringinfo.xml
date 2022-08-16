@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="-1.9980 -2.7454 -4.4606 6.6824 0.0591 7.8148" targetId="7f7c8dc265dc41578e92034fb768d4d5" name="CSBHall12" pathAuthoring="7f7c8dc265dc41578e92034fb768d4d5_authoring.glb" pathOcclusion="7f7c8dc265dc41578e92034fb768d4d5_occlusion.3dt" pathNavMesh="7f7c8dc265dc41578e92034fb768d4d5_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
