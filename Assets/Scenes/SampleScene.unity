@@ -362,8 +362,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 896254102}
   mHiddenRoot: {fileID: 0}
-  mTargetName: CSBhall
-  mDatasetName: Vuforia/CSBhall.xml
+  mTargetName: CSBHall2
+  mDatasetName: Vuforia/CSBHall2.xml
   mCastedBehaviour: {fileID: 896254102}
   mType: 1
 --- !u!114 &896254101
@@ -424,21 +424,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PreviewVisible: 1
   RuntimeOcclusion: 0
-  mTrackableName: CSBhall
+  mTrackableName: CSBHall2
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/CSBhall.xml
-  AuthoringModelPath: 3a02804acb434215b04a1271ec6727fe_authoring.glb
-  OcclusionModelPath: 3a02804acb434215b04a1271ec6727fe_occlusion.3dt
+  mDataSetPath: Vuforia/CSBHall2.xml
+  AuthoringModelPath: 7f68e48bd7b34299886611554dc4df2a_authoring.glb
+  OcclusionModelPath: 7f68e48bd7b34299886611554dc4df2a_occlusion.3dt
   RuntimeCollider: 0
-  ClipHeight: 0.91775
+  ClipHeight: 1.570695
   mSize: {x: 0, y: 0, z: 0}
   mBoundingBox:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
-  mNavMeshModelPath: 3a02804acb434215b04a1271ec6727fe_navmesh.glb
+  mNavMeshModelPath: 7f68e48bd7b34299886611554dc4df2a_navmesh.glb
   mVersion: 5.0
-  mBBoxMin: {x: -5.5277, y: -2.1556, z: -3.7527}
-  mBBoxMax: {x: 3.2072, y: 0.7714, z: 30.5287}
+  mBBoxMin: {x: -6.5074, y: -1.4637, z: 0.7428}
+  mBBoxMax: {x: 10.1893, y: 1.4262, z: 10.4111}
   mModelMesh: {fileID: 0}
   mRequiresExternalPositions: 0
   mPreview: {fileID: 896254100}
@@ -449,11 +449,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 896254099}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0.1299048, z: -0, w: 0.9915265}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -14.928, z: 0}
